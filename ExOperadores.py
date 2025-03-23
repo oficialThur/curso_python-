@@ -1,0 +1,11 @@
+A = 5
+B = 15
+C = 10
+
+print("A == B AND B > C:", A == B and B > C )
+print("A < B OR B > C:", A < B or B > C )
+print("NOT A == B :", not A == B )
+print("A + B =",A + B,)
+print("A + B =",A - B,)
+print("A + B =",A / B,)
+print("A + B =",A // B,)
